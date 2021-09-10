@@ -1,0 +1,20 @@
+{
+  "webdriver_opt": {
+
+  },
+
+  "login_page": {
+    "input_username_id": "ctl06_txtKullaniciAdi",
+    "input_password_id": "ctl06_txtSifre",
+    "button_login_id": "ctl06_lbLogin"
+  },
+
+  "login_data": {
+    "username": "",
+    "password": ""
+  },
+
+  "urls": {
+    "login": "https://login.cu.edu.tr"
+  }
+}
