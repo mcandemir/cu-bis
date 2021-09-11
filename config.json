@@ -1,6 +1,7 @@
 {
-  "webdriver_opt": {
-
+  "login_data": {
+    "username": "",
+    "password": ""
   },
 
   "login_page": {
@@ -9,12 +10,11 @@
     "button_login_id": "ctl06_lbLogin"
   },
 
-  "login_data": {
-    "username": "",
-    "password": ""
-  },
-
   "urls": {
-    "login": "https://login.cu.edu.tr"
+    "login": "https://login.cu.edu.tr",
+    "obs": "https://derskayit.cu.edu.tr",
+    "lectures": "https://derskayit.cu.edu.tr/Ogrenci/SecilenDersler",
+    "syllabus": "https://derskayit.cu.edu.tr/Ogrenci/DersProgrami",
+    "transcript": "https://derskayit.cu.edu.tr/Ogrenci/Transkript"
   }
 }
