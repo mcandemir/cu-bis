@@ -29,7 +29,7 @@ class Agent:
         print("<*> driver is set!")
 
     def set_url(self, url):
-        print("<*> conencting {}".format(url))
+        print("<*> connecting {}".format(url))
         self.driver.get(url)
         print("<*> connection set!")
 
