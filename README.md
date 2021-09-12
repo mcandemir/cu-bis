@@ -2,7 +2,7 @@
 <p> A command-line interface based application to access Cukurova University Student Information System (CUBIS - OBS) </p>
 
 ### Testing in anaconda environment (Linux)
-<p>Clone and go into the repository:</p>
+<p>Make sure you have FireFox already installed, then, clone and go into the repository:</p>
 
 ```shell
 $ git clone https://github.com/mcandemir/cu-bis.git
